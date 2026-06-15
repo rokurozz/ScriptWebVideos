@@ -50,6 +50,7 @@ Um script simples que adiciona algumas funcionalidades extras para vídeos na we
 https://raw.githubusercontent.com/rokurozz/ScriptWebVideos/main/script.user.js
 5. **Clique em "Instalar"** (Install)
 6. **Confirme a instalação** clicando em "Instalar" novamente
+
 Recomendo usar algum bloqueador de anúncios como a extensão **ublock origin** para uma boa experiência
 
 > **Precisa de ajuda?** Clique no botão abaixo para assistir ao tutorial completo:
