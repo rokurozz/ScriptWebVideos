@@ -1,5 +1,4 @@
-# Script - Botões para videos na Web (Feito para Mobile) - versão para pc no final
-
+# Script - Botões para videos na Web (Feito para Mobile) - Funciona no PC
 Um script simples que adiciona algumas funcionalidades extras para vídeos na web, com salvamento automático de progresso, útil para pessoas que desejam assistir animes, séries e filmes através de sites
 
 ## ✨ Funcionalidades Principais
@@ -65,6 +64,3 @@ Recomendo usar algum bloqueador de anúncios como a extensão **ublock origin** 
   <img style="height: 380px;" src="https://github.com/user-attachments/assets/b188a7f4-f2a3-45e7-b607-8785ca70ec58" />
   <img style="height: 380px;" src="https://github.com/user-attachments/assets/c58f3a0d-0408-4d9c-b462-03584fdb82a8" />
 </div>
-
-# Versão para PC aqui:
-https://github.com/rokurozz/ScriptWebVideosPC
