@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Script - Botões extras para videos na web
 // @namespace https://github.com/rokurozz/ScriptWebVideos
-// @version      1.7.4
+// @version      1.7.5
 // @author       rokurozz
 // @updateURL    https://raw.githubusercontent.com/rokurozz/ScriptWebVideos/main/script.user.js
 // @downloadURL  https://raw.githubusercontent.com/rokurozz/ScriptWebVideos/main/script.user.js
