@@ -34,7 +34,7 @@ Um script simples que adiciona algumas funcionalidades extras para vídeos na we
 - **Interface amigável** para gerenciar a blacklist, através do botão menu "⚙️"
 
 ### 🔄 Sincronização entre dispostivos
-**Crie um código através do menu e digite ele nos dois dispositivos que desaja sincronizar os progressos
+**Crie um código através do menu e digite ele nos dois dispositivos que desaja sincronizar os progressos**
 
 ## 🚀 Instalação
 
