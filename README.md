@@ -1,4 +1,5 @@
-# Script - Botões para videos na Web (Feito para Mobile) - Funciona no PC
+# Funções extras para videos na Web - PC e Mobile 
+
 Um script simples que adiciona algumas funcionalidades extras para vídeos na web, com salvamento automático de progresso, útil para pessoas que desejam assistir animes, séries e filmes através de sites
 
 ## ✨ Funcionalidades Principais
